@@ -6,7 +6,7 @@
     padding: 20px; 
     background-color: #C6E4D6;
     border-radius: 24px;
-   /* border-right-width: 50px;  */
+   
    width: 80%;
    margin-left: 130px;
     
@@ -58,7 +58,7 @@ h1{
     transform: scale(1.05);
     transition: all 0.3s ease;
 }
-.heroo{
+.hero{
 position: absolute;
 width: 474.03px;
 height: 329.21px;
@@ -321,5 +321,3 @@ rgb(255, 255, 255);
     transform: scale(1.05);
     transition: all 0.3s ease;
 }
-Seam
-Seam Ahmed
